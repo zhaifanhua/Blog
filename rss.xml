@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>摘繁华博客</title>
-    <link>https://zhaifanhua.gitee.io/</link>
+    <link>https://blog.zhaifanhua.com/</link>
     
-    <atom:link href="https://zhaifanhua.gitee.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://blog.zhaifanhua.com/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>白衣无尘，亦如初见。</description>
     <pubDate>Fri, 06 May 2022 14:40:05 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>U8数据库同步至WMS数据库语句</title>
-      <link>https://zhaifanhua.gitee.io/2022/05/06/b2d0df7be00b/</link>
-      <guid>https://zhaifanhua.gitee.io/2022/05/06/b2d0df7be00b/</guid>
+      <link>https://blog.zhaifanhua.com/2022/05/06/b2d0df7be00b/</link>
+      <guid>https://blog.zhaifanhua.com/2022/05/06/b2d0df7be00b/</guid>
       <pubDate>Fri, 06 May 2022 14:39:05 GMT</pubDate>
       
       <description>U8数据库同步至WMS数据库语句</description>
@@ -23,20 +23,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/U8-WMS/">U8,WMS</category>
+      <category domain="https://blog.zhaifanhua.com/tags/U8-WMS/">U8,WMS</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2022/05/06/b2d0df7be00b/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2022/05/06/b2d0df7be00b/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>用C#实现模拟双色球中奖控制台应用程序</title>
-      <link>https://zhaifanhua.gitee.io/2022/05/02/db3b084c86c8/</link>
-      <guid>https://zhaifanhua.gitee.io/2022/05/02/db3b084c86c8/</guid>
+      <link>https://blog.zhaifanhua.com/2022/05/02/db3b084c86c8/</link>
+      <guid>https://blog.zhaifanhua.com/2022/05/02/db3b084c86c8/</guid>
       <pubDate>Mon, 02 May 2022 06:04:17 GMT</pubDate>
       
       <description>用C#实现模拟双色球中奖控制台应用程序</description>
@@ -44,22 +44,22 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/CSharp/">CSharp</category>
+      <category domain="https://blog.zhaifanhua.com/categories/CSharp/">CSharp</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/CSharp/">CSharp</category>
+      <category domain="https://blog.zhaifanhua.com/tags/CSharp/">CSharp</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/NET/">.NET</category>
+      <category domain="https://blog.zhaifanhua.com/tags/NET/">.NET</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2022/05/02/db3b084c86c8/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2022/05/02/db3b084c86c8/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>本地git仓库提交代码到远程git仓库</title>
-      <link>https://zhaifanhua.gitee.io/2022/04/25/112bbc55f889/</link>
-      <guid>https://zhaifanhua.gitee.io/2022/04/25/112bbc55f889/</guid>
+      <link>https://blog.zhaifanhua.com/2022/04/25/112bbc55f889/</link>
+      <guid>https://blog.zhaifanhua.com/2022/04/25/112bbc55f889/</guid>
       <pubDate>Mon, 25 Apr 2022 03:14:05 GMT</pubDate>
       
       <description>本地git仓库提交代码到远程git仓库</description>
@@ -67,20 +67,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/git/">git</category>
+      <category domain="https://blog.zhaifanhua.com/tags/git/">git</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2022/04/25/112bbc55f889/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2022/04/25/112bbc55f889/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>为VisualStudio新建文件创建版权日期模板</title>
-      <link>https://zhaifanhua.gitee.io/2022/04/15/dcf8e9eabfe3/</link>
-      <guid>https://zhaifanhua.gitee.io/2022/04/15/dcf8e9eabfe3/</guid>
+      <link>https://blog.zhaifanhua.com/2022/04/15/dcf8e9eabfe3/</link>
+      <guid>https://blog.zhaifanhua.com/2022/04/15/dcf8e9eabfe3/</guid>
       <pubDate>Thu, 14 Apr 2022 17:43:05 GMT</pubDate>
       
       <description>为VisualStudio新建文件创建版权日期模板</description>
@@ -88,24 +88,24 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/DotNet/">DotNet</category>
+      <category domain="https://blog.zhaifanhua.com/tags/DotNet/">DotNet</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/CSharp/">CSharp</category>
+      <category domain="https://blog.zhaifanhua.com/tags/CSharp/">CSharp</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/VisualStudio/">VisualStudio</category>
+      <category domain="https://blog.zhaifanhua.com/tags/VisualStudio/">VisualStudio</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2022/04/15/dcf8e9eabfe3/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2022/04/15/dcf8e9eabfe3/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>彻底的卸载干净oracle 11g</title>
-      <link>https://zhaifanhua.gitee.io/2022/03/07/d84a48da011f/</link>
-      <guid>https://zhaifanhua.gitee.io/2022/03/07/d84a48da011f/</guid>
+      <link>https://blog.zhaifanhua.com/2022/03/07/d84a48da011f/</link>
+      <guid>https://blog.zhaifanhua.com/2022/03/07/d84a48da011f/</guid>
       <pubDate>Mon, 07 Mar 2022 10:14:05 GMT</pubDate>
       
       <description>彻底的卸载干净oracle 11g</description>
@@ -113,20 +113,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/oracle/">oracle</category>
+      <category domain="https://blog.zhaifanhua.com/tags/oracle/">oracle</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2022/03/07/d84a48da011f/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2022/03/07/d84a48da011f/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>CentOS上部署自己的DotNet项目</title>
-      <link>https://zhaifanhua.gitee.io/2021/09/30/5460bbed56e3/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/09/30/5460bbed56e3/</guid>
+      <link>https://blog.zhaifanhua.com/2021/09/30/5460bbed56e3/</link>
+      <guid>https://blog.zhaifanhua.com/2021/09/30/5460bbed56e3/</guid>
       <pubDate>Thu, 30 Sep 2021 11:59:05 GMT</pubDate>
       
       <description>Cloudreve的搭建</description>
@@ -134,24 +134,24 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/DotNet/">DotNet</category>
+      <category domain="https://blog.zhaifanhua.com/tags/DotNet/">DotNet</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/CentOS/">CentOS</category>
+      <category domain="https://blog.zhaifanhua.com/tags/CentOS/">CentOS</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/09/30/5460bbed56e3/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/09/30/5460bbed56e3/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Linux操作系统查看系统信息</title>
-      <link>https://zhaifanhua.gitee.io/2021/09/02/e6ce890560ac/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/09/02/e6ce890560ac/</guid>
+      <link>https://blog.zhaifanhua.com/2021/09/02/e6ce890560ac/</link>
+      <guid>https://blog.zhaifanhua.com/2021/09/02/e6ce890560ac/</guid>
       <pubDate>Thu, 02 Sep 2021 10:14:05 GMT</pubDate>
       
       <description>Linux操作系统查看系统信息</description>
@@ -159,20 +159,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/Linux/">Linux</category>
+      <category domain="https://blog.zhaifanhua.com/tags/Linux/">Linux</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/09/02/e6ce890560ac/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/09/02/e6ce890560ac/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Cloudreve的搭建</title>
-      <link>https://zhaifanhua.gitee.io/2021/08/25/bfc1b47b8e44/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/08/25/bfc1b47b8e44/</guid>
+      <link>https://blog.zhaifanhua.com/2021/08/25/bfc1b47b8e44/</link>
+      <guid>https://blog.zhaifanhua.com/2021/08/25/bfc1b47b8e44/</guid>
       <pubDate>Wed, 25 Aug 2021 06:14:05 GMT</pubDate>
       
       <description>Cloudreve的搭建</description>
@@ -180,20 +180,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E7%BD%91%E7%9B%98/">网盘</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E7%BD%91%E7%9B%98/">网盘</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/08/25/bfc1b47b8e44/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/08/25/bfc1b47b8e44/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>GitLab的安装与部署</title>
-      <link>https://zhaifanhua.gitee.io/2021/08/18/b8da6cc76a88/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/08/18/b8da6cc76a88/</guid>
+      <link>https://blog.zhaifanhua.com/2021/08/18/b8da6cc76a88/</link>
+      <guid>https://blog.zhaifanhua.com/2021/08/18/b8da6cc76a88/</guid>
       <pubDate>Tue, 17 Aug 2021 21:14:05 GMT</pubDate>
       
       <description>GitLab的安装与部署</description>
@@ -201,20 +201,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/GitLab/">GitLab</category>
+      <category domain="https://blog.zhaifanhua.com/tags/GitLab/">GitLab</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/08/18/b8da6cc76a88/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/08/18/b8da6cc76a88/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>最喜欢的一篇散文</title>
-      <link>https://zhaifanhua.gitee.io/2021/08/12/dd87e4db14e9/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/08/12/dd87e4db14e9/</guid>
+      <link>https://blog.zhaifanhua.com/2021/08/12/dd87e4db14e9/</link>
+      <guid>https://blog.zhaifanhua.com/2021/08/12/dd87e4db14e9/</guid>
       <pubDate>Thu, 12 Aug 2021 15:50:21 GMT</pubDate>
       
       <description>最喜欢的一篇散文</description>
@@ -222,20 +222,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%A3%E6%96%87/">散文</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%A3%E6%96%87/">散文</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E6%95%A3%E6%96%87/">散文</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%A3%E6%96%87/">散文</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/08/12/dd87e4db14e9/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/08/12/dd87e4db14e9/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>SqlServer常用语句及函数</title>
-      <link>https://zhaifanhua.gitee.io/2021/07/12/30d67e432942/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/07/12/30d67e432942/</guid>
+      <link>https://blog.zhaifanhua.com/2021/07/12/30d67e432942/</link>
+      <guid>https://blog.zhaifanhua.com/2021/07/12/30d67e432942/</guid>
       <pubDate>Mon, 12 Jul 2021 03:14:05 GMT</pubDate>
       
       <description>SqlServer常用语句及函数</description>
@@ -243,20 +243,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/SqlServer/">SqlServer</category>
+      <category domain="https://blog.zhaifanhua.com/categories/SqlServer/">SqlServer</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/SqlServer/">SqlServer</category>
+      <category domain="https://blog.zhaifanhua.com/tags/SqlServer/">SqlServer</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/07/12/30d67e432942/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/07/12/30d67e432942/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>解决电脑不能复制移动删除文件夹的方法</title>
-      <link>https://zhaifanhua.gitee.io/2021/07/06/0ca56f2765d8/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/07/06/0ca56f2765d8/</guid>
+      <link>https://blog.zhaifanhua.com/2021/07/06/0ca56f2765d8/</link>
+      <guid>https://blog.zhaifanhua.com/2021/07/06/0ca56f2765d8/</guid>
       <pubDate>Tue, 06 Jul 2021 03:45:17 GMT</pubDate>
       
       <description>解决电脑不能复制移动删除文件夹的方法</description>
@@ -264,20 +264,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%94%BB%E7%95%A5/">攻略</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%94%BB%E7%95%A5/">攻略</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E6%94%BB%E7%95%A5/">攻略</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E6%94%BB%E7%95%A5/">攻略</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/07/06/0ca56f2765d8/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/07/06/0ca56f2765d8/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>通用.NET数据库访问类SqlHelper</title>
-      <link>https://zhaifanhua.gitee.io/2021/06/19/bff0524135f8/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/06/19/bff0524135f8/</guid>
+      <link>https://blog.zhaifanhua.com/2021/06/19/bff0524135f8/</link>
+      <guid>https://blog.zhaifanhua.com/2021/06/19/bff0524135f8/</guid>
       <pubDate>Fri, 18 Jun 2021 20:04:17 GMT</pubDate>
       
       <description>通用.NET数据库访问类SqlHelper</description>
@@ -285,22 +285,22 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/CSharp/">CSharp</category>
+      <category domain="https://blog.zhaifanhua.com/categories/CSharp/">CSharp</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/CSharp/">CSharp</category>
+      <category domain="https://blog.zhaifanhua.com/tags/CSharp/">CSharp</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/NET/">.NET</category>
+      <category domain="https://blog.zhaifanhua.com/tags/NET/">.NET</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/06/19/bff0524135f8/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/06/19/bff0524135f8/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>常用端口及范围</title>
-      <link>https://zhaifanhua.gitee.io/2021/06/12/a0e2f68c42a4/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/06/12/a0e2f68c42a4/</guid>
+      <link>https://blog.zhaifanhua.com/2021/06/12/a0e2f68c42a4/</link>
+      <guid>https://blog.zhaifanhua.com/2021/06/12/a0e2f68c42a4/</guid>
       <pubDate>Fri, 11 Jun 2021 21:37:26 GMT</pubDate>
       
       <description>常用端口及范围</description>
@@ -308,20 +308,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">基础知识</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">基础知识</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">基础知识</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">基础知识</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/06/12/a0e2f68c42a4/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/06/12/a0e2f68c42a4/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>MySQL开启远程连接</title>
-      <link>https://zhaifanhua.gitee.io/2021/06/11/55b08bc2ab7a/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/06/11/55b08bc2ab7a/</guid>
+      <link>https://blog.zhaifanhua.com/2021/06/11/55b08bc2ab7a/</link>
+      <guid>https://blog.zhaifanhua.com/2021/06/11/55b08bc2ab7a/</guid>
       <pubDate>Fri, 11 Jun 2021 10:14:05 GMT</pubDate>
       
       <description>MySQL开启远程连接</description>
@@ -329,20 +329,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/MySQL/">MySQL</category>
+      <category domain="https://blog.zhaifanhua.com/categories/MySQL/">MySQL</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/MySQL/">MySQL</category>
+      <category domain="https://blog.zhaifanhua.com/tags/MySQL/">MySQL</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/06/11/55b08bc2ab7a/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/06/11/55b08bc2ab7a/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>.NET面试题</title>
-      <link>https://zhaifanhua.gitee.io/2021/06/11/39a2b01e6d07/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/06/11/39a2b01e6d07/</guid>
+      <link>https://blog.zhaifanhua.com/2021/06/11/39a2b01e6d07/</link>
+      <guid>https://blog.zhaifanhua.com/2021/06/11/39a2b01e6d07/</guid>
       <pubDate>Fri, 11 Jun 2021 10:14:05 GMT</pubDate>
       
       <description>.NET面试题</description>
@@ -350,24 +350,24 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/">面试题</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/">面试题</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/CSharp/">CSharp</category>
+      <category domain="https://blog.zhaifanhua.com/tags/CSharp/">CSharp</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/NET/">.NET</category>
+      <category domain="https://blog.zhaifanhua.com/tags/NET/">.NET</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/">面试题</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/">面试题</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/06/11/39a2b01e6d07/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/06/11/39a2b01e6d07/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>解决网页文字不能复制的方法</title>
-      <link>https://zhaifanhua.gitee.io/2021/05/13/2e98a43a272b/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/05/13/2e98a43a272b/</guid>
+      <link>https://blog.zhaifanhua.com/2021/05/13/2e98a43a272b/</link>
+      <guid>https://blog.zhaifanhua.com/2021/05/13/2e98a43a272b/</guid>
       <pubDate>Wed, 12 May 2021 20:04:17 GMT</pubDate>
       
       <description>解决网页文字不能复制的方法</description>
@@ -375,20 +375,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/05/13/2e98a43a272b/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/05/13/2e98a43a272b/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>用ZFile搭建公共在线网盘</title>
-      <link>https://zhaifanhua.gitee.io/2021/05/11/90ce65f79e37/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/05/11/90ce65f79e37/</guid>
+      <link>https://blog.zhaifanhua.com/2021/05/11/90ce65f79e37/</link>
+      <guid>https://blog.zhaifanhua.com/2021/05/11/90ce65f79e37/</guid>
       <pubDate>Tue, 11 May 2021 10:14:05 GMT</pubDate>
       
       <description>用zfile搭建公共在线网盘</description>
@@ -396,20 +396,20 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E7%BD%91%E7%9B%98/">网盘</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E7%BD%91%E7%9B%98/">网盘</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/05/11/90ce65f79e37/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/05/11/90ce65f79e37/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>在CentOS上安装Nginx配置HTTPS并设置系统服务和开机启动（最全教程）</title>
-      <link>https://zhaifanhua.gitee.io/2021/03/15/01dba31040c1/</link>
-      <guid>https://zhaifanhua.gitee.io/2021/03/15/01dba31040c1/</guid>
+      <link>https://blog.zhaifanhua.com/2021/03/15/01dba31040c1/</link>
+      <guid>https://blog.zhaifanhua.com/2021/03/15/01dba31040c1/</guid>
       <pubDate>Sun, 14 Mar 2021 20:04:17 GMT</pubDate>
       
       <description>在CentOS上安装Nginx配置HTTPS并设置系统服务和开机启动</description>
@@ -417,28 +417,28 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/CentOS/">CentOS</category>
+      <category domain="https://blog.zhaifanhua.com/tags/CentOS/">CentOS</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/Linux/">Linux</category>
+      <category domain="https://blog.zhaifanhua.com/tags/Linux/">Linux</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/Nginx/">Nginx</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/HTTPS/">HTTPS</category>
+      <category domain="https://blog.zhaifanhua.com/tags/Nginx/">Nginx</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      <category domain="https://blog.zhaifanhua.com/tags/HTTPS/">HTTPS</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2021/03/15/01dba31040c1/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2021/03/15/01dba31040c1/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Python(Jupyter)实现餐饮企业订单数据分析</title>
-      <link>https://zhaifanhua.gitee.io/2020/11/17/9a3359f551e9/</link>
-      <guid>https://zhaifanhua.gitee.io/2020/11/17/9a3359f551e9/</guid>
+      <link>https://blog.zhaifanhua.com/2020/11/17/9a3359f551e9/</link>
+      <guid>https://blog.zhaifanhua.com/2020/11/17/9a3359f551e9/</guid>
       <pubDate>Tue, 17 Nov 2020 10:37:26 GMT</pubDate>
       
       <description>Python(Jupyter)实现餐饮企业订单数据分析</description>
@@ -446,17 +446,17 @@
       
       
       
-      <category domain="https://zhaifanhua.gitee.io/categories/Python/">Python</category>
+      <category domain="https://blog.zhaifanhua.com/categories/Python/">Python</category>
       
       
-      <category domain="https://zhaifanhua.gitee.io/tags/Python/">Python</category>
+      <category domain="https://blog.zhaifanhua.com/tags/Python/">Python</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/Jupyter/">Jupyter</category>
+      <category domain="https://blog.zhaifanhua.com/tags/Jupyter/">Jupyter</category>
       
-      <category domain="https://zhaifanhua.gitee.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/">数据分析</category>
+      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/">数据分析</category>
       
       
-      <comments>https://zhaifanhua.gitee.io/2020/11/17/9a3359f551e9/#disqus_thread</comments>
+      <comments>https://blog.zhaifanhua.com/2020/11/17/9a3359f551e9/#disqus_thread</comments>
       
     </item>
     
