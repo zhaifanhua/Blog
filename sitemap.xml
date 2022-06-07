@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.zhaifanhua.com/link/index.html</loc>
+    
+    <lastmod>2022-06-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.zhaifanhua.com/2022/05/06/b2d0df7be00b/</loc>
     
     <lastmod>2022-05-06</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://blog.zhaifanhua.com/tags/index.html</loc>
-    
-    <lastmod>2022-03-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/link/index.html</loc>
     
     <lastmod>2022-03-16</lastmod>
     
@@ -380,6 +380,13 @@
 
   
   <url>
+    <loc>https://blog.zhaifanhua.com/tags/Hello-World/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.zhaifanhua.com/tags/%E6%95%A3%E6%96%87/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -436,56 +443,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/tags/%E6%B1%89%E5%8C%96/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/PowerDesigner/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zhaifanhua.com/tags/Python/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/Hello-World/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/CSharp/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/NET/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -513,6 +471,34 @@
   </url>
   
   <url>
+    <loc>https://blog.zhaifanhua.com/tags/CSharp/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/NET/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/U8-WMS/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.zhaifanhua.com/tags/Nginx/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -527,14 +513,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/tags/oracle/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/U8-WMS/</loc>
+    <loc>https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -548,7 +527,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
+    <loc>https://blog.zhaifanhua.com/tags/oracle/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -556,6 +535,27 @@
   
   <url>
     <loc>https://blog.zhaifanhua.com/tags/git/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/%E6%B1%89%E5%8C%96/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/PowerDesigner/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -613,14 +613,14 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
+    <loc>https://blog.zhaifanhua.com/categories/SqlServer/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/categories/SqlServer/</loc>
+    <loc>https://blog.zhaifanhua.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -634,14 +634,14 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/categories/CSharp/</loc>
+    <loc>https://blog.zhaifanhua.com/categories/%E6%94%BB%E7%95%A5/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/categories/%E6%94%BB%E7%95%A5/</loc>
+    <loc>https://blog.zhaifanhua.com/categories/CSharp/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
