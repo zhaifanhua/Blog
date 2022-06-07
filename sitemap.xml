@@ -380,13 +380,6 @@
 
   
   <url>
-    <loc>https://blog.zhaifanhua.com/tags/%E8%AF%97%E8%AF%8D/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zhaifanhua.com/tags/Hello-World/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -395,6 +388,27 @@
   
   <url>
     <loc>https://blog.zhaifanhua.com/tags/%E6%95%A3%E6%96%87/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/%E8%AF%97%E8%AF%8D/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/%E7%BD%91%E7%9B%98/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/GitLab/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -422,14 +436,21 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/tags/%E7%BD%91%E7%9B%98/</loc>
+    <loc>https://blog.zhaifanhua.com/tags/%E6%B1%89%E5%8C%96/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/tags/Linux/</loc>
+    <loc>https://blog.zhaifanhua.com/tags/PowerDesigner/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -443,7 +464,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/tags/GitLab/</loc>
+    <loc>https://blog.zhaifanhua.com/tags/Linux/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -471,42 +492,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/tags/%E6%B1%89%E5%8C%96/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/PowerDesigner/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zhaifanhua.com/tags/Python/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/Jupyter/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -521,13 +507,6 @@
   
   <url>
     <loc>https://blog.zhaifanhua.com/tags/VisualStudio/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaifanhua.com/tags/U8-WMS/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -555,7 +534,21 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/tags/git/</loc>
+    <loc>https://blog.zhaifanhua.com/tags/U8-WMS/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/Jupyter/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -575,17 +568,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://blog.zhaifanhua.com/tags/git/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://blog.zhaifanhua.com/categories/%E8%AF%97%E8%AF%8D/</loc>
+    <loc>https://blog.zhaifanhua.com/categories/%E6%95%A3%E6%96%87/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/categories/%E6%95%A3%E6%96%87/</loc>
+    <loc>https://blog.zhaifanhua.com/categories/%E8%AF%97%E8%AF%8D/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -599,14 +599,14 @@
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <loc>https://blog.zhaifanhua.com/categories/MySQL/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.zhaifanhua.com/categories/MySQL/</loc>
+    <loc>https://blog.zhaifanhua.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
