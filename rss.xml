@@ -114,9 +114,9 @@
       
       <category domain="https://blog.zhaifanhua.com/tags/DotNet/">DotNet</category>
       
-      <category domain="https://blog.zhaifanhua.com/tags/CSharp/">CSharp</category>
-      
       <category domain="https://blog.zhaifanhua.com/tags/VisualStudio/">VisualStudio</category>
+      
+      <category domain="https://blog.zhaifanhua.com/tags/CSharp/">CSharp</category>
       
       
       <comments>https://blog.zhaifanhua.com/2022/04/15/dcf8e9eabfe3/#disqus_thread</comments>
@@ -150,7 +150,7 @@
       <guid>https://blog.zhaifanhua.com/2021/09/30/5460bbed56e3/</guid>
       <pubDate>Thu, 30 Sep 2021 11:59:05 GMT</pubDate>
       
-      <description>Cloudreve的搭建</description>
+      <description>CentOS上部署自己的DotNet项目</description>
       
       
       
