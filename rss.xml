@@ -9,29 +9,27 @@
     <atom:link href="https://blog.zhaifanhua.com/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>白衣无尘，亦如初见。</description>
-    <pubDate>Fri, 10 Jun 2022 15:23:27 GMT</pubDate>
+    <pubDate>Fri, 10 Jun 2022 12:15:05 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title></title>
-      <link>https://blog.zhaifanhua.com/2022/06/10/f7c47314c73c/</link>
-      <guid>https://blog.zhaifanhua.com/2022/06/10/f7c47314c73c/</guid>
-      <pubDate>Fri, 10 Jun 2022 15:24:08 GMT</pubDate>
+      <title>SQL游标(cursor)详细说明及内部循环使用示例</title>
+      <link>https://blog.zhaifanhua.com/2022/06/10/886f3d036b12/</link>
+      <guid>https://blog.zhaifanhua.com/2022/06/10/886f3d036b12/</guid>
+      <pubDate>Fri, 10 Jun 2022 11:59:05 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;SQL游标-cursor-详细说明及内部循环使用示例&quot;&gt;&lt;a href=&quot;#SQL游标-cursor-详细说明及内部循环使用示例&quot; class=&quot;headerlink&quot;</description>
-          
-        
+      <description>SQL游标(cursor)详细说明及内部循环使用示例</description>
       
       
       
       
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/">数据库</category>
       
       
-      <comments>https://blog.zhaifanhua.com/2022/06/10/f7c47314c73c/#disqus_thread</comments>
+      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/">数据库</category>
+      
+      
+      <comments>https://blog.zhaifanhua.com/2022/06/10/886f3d036b12/#disqus_thread</comments>
       
     </item>
     
@@ -445,9 +443,9 @@
       
       <category domain="https://blog.zhaifanhua.com/tags/CentOS/">CentOS</category>
       
-      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
-      
       <category domain="https://blog.zhaifanhua.com/tags/Linux/">Linux</category>
+      
+      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
       
       <category domain="https://blog.zhaifanhua.com/tags/Nginx/">Nginx</category>
       
