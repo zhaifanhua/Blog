@@ -9,8 +9,31 @@
     <atom:link href="https://blog.zhaifanhua.com/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>白衣无尘，亦如初见。</description>
-    <pubDate>Fri, 06 May 2022 14:40:05 GMT</pubDate>
+    <pubDate>Fri, 10 Jun 2022 15:23:27 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title></title>
+      <link>https://blog.zhaifanhua.com/2022/06/10/f7c47314c73c/</link>
+      <guid>https://blog.zhaifanhua.com/2022/06/10/f7c47314c73c/</guid>
+      <pubDate>Fri, 10 Jun 2022 15:24:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;SQL游标-cursor-详细说明及内部循环使用示例&quot;&gt;&lt;a href=&quot;#SQL游标-cursor-详细说明及内部循环使用示例&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://blog.zhaifanhua.com/2022/06/10/f7c47314c73c/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>U8数据库同步至WMS数据库语句</title>
@@ -422,9 +445,9 @@
       
       <category domain="https://blog.zhaifanhua.com/tags/CentOS/">CentOS</category>
       
-      <category domain="https://blog.zhaifanhua.com/tags/Linux/">Linux</category>
-      
       <category domain="https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      <category domain="https://blog.zhaifanhua.com/tags/Linux/">Linux</category>
       
       <category domain="https://blog.zhaifanhua.com/tags/Nginx/">Nginx</category>
       
@@ -432,31 +455,6 @@
       
       
       <comments>https://blog.zhaifanhua.com/2021/03/15/01dba31040c1/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Python(Jupyter)实现餐饮企业订单数据分析</title>
-      <link>https://blog.zhaifanhua.com/2020/11/17/9a3359f551e9/</link>
-      <guid>https://blog.zhaifanhua.com/2020/11/17/9a3359f551e9/</guid>
-      <pubDate>Tue, 17 Nov 2020 10:37:26 GMT</pubDate>
-      
-      <description>Python(Jupyter)实现餐饮企业订单数据分析</description>
-      
-      
-      
-      
-      <category domain="https://blog.zhaifanhua.com/categories/Python/">Python</category>
-      
-      
-      <category domain="https://blog.zhaifanhua.com/tags/Python/">Python</category>
-      
-      <category domain="https://blog.zhaifanhua.com/tags/Jupyter/">Jupyter</category>
-      
-      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/">数据分析</category>
-      
-      
-      <comments>https://blog.zhaifanhua.com/2020/11/17/9a3359f551e9/#disqus_thread</comments>
       
     </item>
     
