@@ -9,8 +9,50 @@
     <atom:link href="https://blog.zhaifanhua.com/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>白衣无尘，亦如初见。</description>
-    <pubDate>Fri, 10 Jun 2022 12:15:05 GMT</pubDate>
+    <pubDate>Sun, 12 Jun 2022 12:52:58 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Vue学习笔记3-使用Vite安装项目</title>
+      <link>https://blog.zhaifanhua.com/2022/06/12/d4a1f47af7e0/</link>
+      <guid>https://blog.zhaifanhua.com/2022/06/12/d4a1f47af7e0/</guid>
+      <pubDate>Sun, 12 Jun 2022 12:49:15 GMT</pubDate>
+      
+      <description>Vite是一个 web 开发构建工具，由于其原生 ES 模块导入方式，可以实现闪电般的冷服务器启动。</description>
+      
+      
+      
+      
+      <category domain="https://blog.zhaifanhua.com/categories/Vue/">Vue</category>
+      
+      
+      <category domain="https://blog.zhaifanhua.com/tags/Vue/">Vue</category>
+      
+      
+      <comments>https://blog.zhaifanhua.com/2022/06/12/d4a1f47af7e0/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Vue学习笔记2-安装Vue</title>
+      <link>https://blog.zhaifanhua.com/2022/06/10/343a06e5aa73/</link>
+      <guid>https://blog.zhaifanhua.com/2022/06/10/343a06e5aa73/</guid>
+      <pubDate>Fri, 10 Jun 2022 13:19:05 GMT</pubDate>
+      
+      <description>Vue.js 设计的初衷就包括可以被渐进式地采用。这意味着它可以根据需求以多种方式集成到一个项目中。</description>
+      
+      
+      
+      
+      <category domain="https://blog.zhaifanhua.com/categories/Vue/">Vue</category>
+      
+      
+      <category domain="https://blog.zhaifanhua.com/tags/Vue/">Vue</category>
+      
+      
+      <comments>https://blog.zhaifanhua.com/2022/06/10/343a06e5aa73/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>SQL游标(cursor)详细说明及内部循环使用示例</title>
@@ -30,6 +72,27 @@
       
       
       <comments>https://blog.zhaifanhua.com/2022/06/10/886f3d036b12/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Vue学习笔记1-什么是Vue</title>
+      <link>https://blog.zhaifanhua.com/2022/06/08/69da1f017e95/</link>
+      <guid>https://blog.zhaifanhua.com/2022/06/08/69da1f017e95/</guid>
+      <pubDate>Wed, 08 Jun 2022 14:39:05 GMT</pubDate>
+      
+      <description>渐进式 JavaScript 框架，一款用于构建 Web 界面，易学易用，性能出色且功能丰富的框架。</description>
+      
+      
+      
+      
+      <category domain="https://blog.zhaifanhua.com/categories/Vue/">Vue</category>
+      
+      
+      <category domain="https://blog.zhaifanhua.com/tags/Vue/">Vue</category>
+      
+      
+      <comments>https://blog.zhaifanhua.com/2022/06/08/69da1f017e95/#disqus_thread</comments>
       
     </item>
     
@@ -114,9 +177,9 @@
       
       <category domain="https://blog.zhaifanhua.com/tags/DotNet/">DotNet</category>
       
-      <category domain="https://blog.zhaifanhua.com/tags/VisualStudio/">VisualStudio</category>
-      
       <category domain="https://blog.zhaifanhua.com/tags/CSharp/">CSharp</category>
+      
+      <category domain="https://blog.zhaifanhua.com/tags/VisualStudio/">VisualStudio</category>
       
       
       <comments>https://blog.zhaifanhua.com/2022/04/15/dcf8e9eabfe3/#disqus_thread</comments>
@@ -382,77 +445,6 @@
       
       
       <comments>https://blog.zhaifanhua.com/2021/06/11/39a2b01e6d07/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>解决网页文字不能复制的方法</title>
-      <link>https://blog.zhaifanhua.com/2021/05/13/2e98a43a272b/</link>
-      <guid>https://blog.zhaifanhua.com/2021/05/13/2e98a43a272b/</guid>
-      <pubDate>Wed, 12 May 2021 20:04:17 GMT</pubDate>
-      
-      <description>解决网页文字不能复制的方法</description>
-      
-      
-      
-      
-      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <comments>https://blog.zhaifanhua.com/2021/05/13/2e98a43a272b/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>用ZFile搭建公共在线网盘</title>
-      <link>https://blog.zhaifanhua.com/2021/05/11/90ce65f79e37/</link>
-      <guid>https://blog.zhaifanhua.com/2021/05/11/90ce65f79e37/</guid>
-      <pubDate>Tue, 11 May 2021 10:14:05 GMT</pubDate>
-      
-      <description>用zfile搭建公共在线网盘</description>
-      
-      
-      
-      
-      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://blog.zhaifanhua.com/tags/%E7%BD%91%E7%9B%98/">网盘</category>
-      
-      
-      <comments>https://blog.zhaifanhua.com/2021/05/11/90ce65f79e37/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>在CentOS上安装Nginx配置HTTPS并设置系统服务和开机启动（最全教程）</title>
-      <link>https://blog.zhaifanhua.com/2021/03/15/01dba31040c1/</link>
-      <guid>https://blog.zhaifanhua.com/2021/03/15/01dba31040c1/</guid>
-      <pubDate>Sun, 14 Mar 2021 20:04:17 GMT</pubDate>
-      
-      <description>在CentOS上安装Nginx配置HTTPS并设置系统服务和开机启动</description>
-      
-      
-      
-      
-      <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      
-      <category domain="https://blog.zhaifanhua.com/tags/CentOS/">CentOS</category>
-      
-      <category domain="https://blog.zhaifanhua.com/tags/Linux/">Linux</category>
-      
-      <category domain="https://blog.zhaifanhua.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
-      
-      <category domain="https://blog.zhaifanhua.com/tags/Nginx/">Nginx</category>
-      
-      <category domain="https://blog.zhaifanhua.com/tags/HTTPS/">HTTPS</category>
-      
-      
-      <comments>https://blog.zhaifanhua.com/2021/03/15/01dba31040c1/#disqus_thread</comments>
       
     </item>
     
