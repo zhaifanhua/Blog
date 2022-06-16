@@ -9,29 +9,27 @@
     <atom:link href="https://blog.zhaifanhua.com/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>白衣无尘，亦如初见。</description>
-    <pubDate>Thu, 16 Jun 2022 17:16:53 GMT</pubDate>
+    <pubDate>Thu, 16 Jun 2022 17:19:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title></title>
-      <link>https://blog.zhaifanhua.com/2022/06/17/10490bad8325/</link>
-      <guid>https://blog.zhaifanhua.com/2022/06/17/10490bad8325/</guid>
-      <pubDate>Thu, 16 Jun 2022 16:54:36 GMT</pubDate>
+      <title>HTTP状态码大全</title>
+      <link>https://blog.zhaifanhua.com/2022/08/11/504f8b76c1b9/</link>
+      <guid>https://blog.zhaifanhua.com/2022/08/11/504f8b76c1b9/</guid>
+      <pubDate>Wed, 10 Aug 2022 17:18:26 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;HTTP状态码大全-常见-HttpStatusCode-含义查询&quot;&gt;&lt;a href=&quot;#HTTP状态码大全-常见-HttpStatusCode-含义查询&quot; class=&quot;headerlink&quot; title=&quot;HTTP状态码大全(常见 HttpStatusCode</description>
-          
-        
+      <description>常见 HttpStatusCode 含义查询</description>
       
       
       
       
+      <category domain="https://blog.zhaifanhua.com/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">基础知识</category>
       
       
-      <comments>https://blog.zhaifanhua.com/2022/06/17/10490bad8325/#disqus_thread</comments>
+      <category domain="https://blog.zhaifanhua.com/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">基础知识</category>
+      
+      
+      <comments>https://blog.zhaifanhua.com/2022/08/11/504f8b76c1b9/#disqus_thread</comments>
       
     </item>
     
