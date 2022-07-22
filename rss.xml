@@ -9,8 +9,31 @@
     <atom:link href="https://blog.zhaifanhua.com/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>白衣无尘，亦如初见。</description>
-    <pubDate>Tue, 21 Jun 2022 20:40:56 GMT</pubDate>
+    <pubDate>Fri, 22 Jul 2022 18:12:05 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何在 CentOS 9 Stream 上安装 MariaDB</title>
+      <link>https://blog.zhaifanhua.com/2022/07/22/31129743390b/</link>
+      <guid>https://blog.zhaifanhua.com/2022/07/22/31129743390b/</guid>
+      <pubDate>Fri, 22 Jul 2022 14:26:05 GMT</pubDate>
+      
+      <description>如何在 CentOS 9 Stream 上安装 MariaDB</description>
+      
+      
+      
+      
+      <category domain="https://blog.zhaifanhua.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/">服务器</category>
+      
+      
+      <category domain="https://blog.zhaifanhua.com/tags/Linux/">Linux</category>
+      
+      <category domain="https://blog.zhaifanhua.com/tags/MariaDB/">MariaDB</category>
+      
+      
+      <comments>https://blog.zhaifanhua.com/2022/07/22/31129743390b/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>《苹果》影评观后感</title>
@@ -217,11 +240,11 @@
       <category domain="https://blog.zhaifanhua.com/categories/%E6%95%99%E7%A8%8B/">教程</category>
       
       
-      <category domain="https://blog.zhaifanhua.com/tags/DotNet/">DotNet</category>
+      <category domain="https://blog.zhaifanhua.com/tags/VisualStudio/">VisualStudio</category>
       
       <category domain="https://blog.zhaifanhua.com/tags/CSharp/">CSharp</category>
       
-      <category domain="https://blog.zhaifanhua.com/tags/VisualStudio/">VisualStudio</category>
+      <category domain="https://blog.zhaifanhua.com/tags/DotNet/">DotNet</category>
       
       
       <comments>https://blog.zhaifanhua.com/2022/04/15/1670a3964288/#disqus_thread</comments>
@@ -420,27 +443,6 @@
       
       
       <comments>https://blog.zhaifanhua.com/2021/06/19/1adfa4983617/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>常用端口及范围</title>
-      <link>https://blog.zhaifanhua.com/2021/06/12/488d33cd9c1d/</link>
-      <guid>https://blog.zhaifanhua.com/2021/06/12/488d33cd9c1d/</guid>
-      <pubDate>Fri, 11 Jun 2021 21:37:26 GMT</pubDate>
-      
-      <description>常用端口及范围</description>
-      
-      
-      
-      
-      <category domain="https://blog.zhaifanhua.com/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">基础知识</category>
-      
-      
-      <category domain="https://blog.zhaifanhua.com/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">基础知识</category>
-      
-      
-      <comments>https://blog.zhaifanhua.com/2021/06/12/488d33cd9c1d/#disqus_thread</comments>
       
     </item>
     
